@@ -15,10 +15,6 @@ sudo npm install -g nodejs
 clear
 sudo npm install -g node.js
 clear
-sudo npm install nodejs --save-dev
-clear
-sudo npm install node.js --save-dev
-clear
 sudo npm install discord@12.0.0 --save-dev
 clear
 sudo npm init
