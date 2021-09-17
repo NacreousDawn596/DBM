@@ -23,3 +23,4 @@ clear
 rm main.py
 echo "now you can launch it by writing node index.js"
 echo "enjoy!"
+rm setup.sh
