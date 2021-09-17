@@ -1,6 +1,6 @@
 token = input("what is your bot token?\n->")
 prefix = input("what do you want as prefix?\n->")
-desc = input("do you like to add a small description? (5words long max)")
+desc = input("do you like to add a small description? (5words long max)\n->")
 code = '''const Discord = require("discord.js");
 const client = new Discord.Client();
 
