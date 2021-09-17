@@ -25,4 +25,5 @@ sudo npm init
 python3 main.py
 clear
 rm main.py
-echo "now you can launch it by writing node index.js\n\nenjoy!"
+echo "now you can launch it by writing node index.js"
+echo "enjoy!"
