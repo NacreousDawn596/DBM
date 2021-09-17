@@ -11,7 +11,7 @@ client.on("ready", () => {
 
 client.on("message", message => {
   if (message.content[0] == "PREFIX") {
-      var msg = message.content.replace('PREFIX', '');
+      var msg = message.content.replace("PREFIX", "");
       switch (msg.split(" ")[0].toLowerCase()) {
           case "hello":
               message.channel.send("hi")
