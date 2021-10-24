@@ -7,9 +7,9 @@ sudo dnf install npm nodejs python3
 clear
 sudo pacman -S npm nodejs python3
 clear
-sudo npm install discord.js@12.0.0 --save-dev
-clear
 sudo npm init
+clear
+npm install discord.js@12.0.0 --save-dev
 clear
 python3 main.py
 clear
